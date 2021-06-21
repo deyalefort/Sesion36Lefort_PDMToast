@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sesion36Lefort_PDMToast</string>
+    <string name="btnPersonalizado1">Toast Personalizado 1</string>
+    <string name="btnPersonalizado2">Toast Personalizado 2</string>
+    <string name="btnPersonalizado3">Toast Personalizado 3</string>
+    <string name="tvTitulo">Ventana Personalizada Lefort</string>
+    <string name="ivLogo"></string>
+    <string name="ivImg2"></string>
+    <string name="ivImg3"></string>
+    <string name="tvTituloA">Mi Agenda Vital</string>
+    <string name="tvSubTitulo">Bienvenido</string>
+</resources>
